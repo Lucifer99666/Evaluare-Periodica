@@ -1,0 +1,123 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.container1{
+    margin-left: 200px;
+}
+body {
+    width: auto;
+    height: auto;
+} 
+.line1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 0px;
+    margin-left: 30px;
+    text-align: center;
+    background-color: white;
+    color: rgb(102, 102, 102);
+    width: 371px;
+    height: 58px;
+
+}
+.orarcursbox {
+    font-size: 20px;
+    text-align: center;
+  
+ 
+}
+.line2 {
+    display: flex;
+    align-items: center;
+}
+.grupe_box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 0px;
+    margin-left: 30px;
+    text-align: center;
+    background-color: rgb(37, 151, 90);
+    color: rgb(255, 255, 255);
+    width: 104px;
+    height: 38px;
+    margin-top: 15px;
+    margin-right: 0px;
+
+}
+
+.grupe_box:hover{
+    background-color: white;
+    color: black;
+}
+
+.grupe_text {
+    font-size: 16px;
+    text-align: center;
+
+}
+
+.profi_box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 0px;
+    margin-left: 30px;
+    text-align: center;
+    background-color: rgb(37, 151, 90);
+    color: rgb(255, 255, 255);
+    width: 104px;
+    height: 38px;
+    margin-top: 15px;
+    margin-right: 0px;
+}
+
+.profi_box:hover{
+    background-color: white;
+    color: black;
+}
+.profi_text {
+    font-size: 16px;
+    text-align: center;
+}
+
+.aule_box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 0px;
+    margin-left: 30px;
+    text-align: center;
+    background-color: rgb(37, 151, 90);
+    color: rgb(255, 255, 255);
+    width: 104px;
+    height: 38px;
+    margin-top: 15px;
+    margin-right: 0px;
+}
+
+.aule_box:hover{
+    background-color: white;
+    color: black;
+}
+.aule_text {
+    font-size: 16px;
+    text-align: center;
+}
+
+.search_box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 0px;
+    margin-left: 30px;
+    text-align: center;
+    background-color: white;
+    width: 371px;
+    height: 40px;
+    margin-top: 15px;
+}
